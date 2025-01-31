@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Performance Data Analysis & Machine Learning
+# 🏋️‍♂️ Performance Data Analysis & ~~Machine Learning~~
 
 > Jupyter Notebook + Python + MySQL을 활용한 퍼포먼스 측정 데이터 분석 등 공부 도전!
 
